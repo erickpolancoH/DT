@@ -1,4 +1,5 @@
 
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -10,10 +11,7 @@
 </head>
 <body>
 
-  <header>
 
-   
-  </header>
     <h2>Objetos almacenados!....</h2>
 
     <div class="talonario">
@@ -35,4 +33,3 @@
   
 </body>
 </html>
-
