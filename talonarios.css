@@ -6,59 +6,50 @@ body{
     border-radius: 50px;
     border-color:black; 
     border: solid;
-    margin:2%;
-    padding: 2%;
-}
-
-.talonario{
-
-    color:rgb(0, 204, 255);
-    background-color:black;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    border-radius: 50px;
-    border-color:white; 
-    border: solid;
     margin:2% ;
     padding: 2%;
 
-display:inline-block;
-
-/*dimensionamiento de cajas*/ 
-width: 300px;
-height: 220px;
-
+    transition:0.5s ;
 }
 
+    .talonario{
 
+     color:rgb(0, 174, 255);
+     background-color:black;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        
 
+        border-radius: 50px;
+        border-color:rgb(0, 153, 255); 
+        border: solid;
+        margin:2% ;
+        padding: 2%;
+        display: inline-block;
+     
+        width: 300px;
+        height: 150px;
+        
+    }
 
+    h2{
+        text-align: center;
+        margin: 1%;
+        padding: 2%;
+    }
 
-
-h2{
-    text-align: center;
-    margin: 1%;
-    padding: 2%;
-}
-
-span{
-    color:yellowgreen;
-    margin: 1%;
-    font-weight: bold;
-    margin: 1%;
-    padding: 2%;
-}
-
-p{
-    font-weight: bold;
-    font-size: 16px;
-text-align: center;
-
+    span{
+        color: rgb(255, 230, 0);
+        margin: 1%;
+        font-style: bold;
+        margin: 1%;
+        padding: 2%;
     
-}
+    }
 
-
-
-/*enter name margin*/
-
-
-}
+    p{
+        font-weight: bold;
+        font-size: 16px;
+    text-align: center;
+    
+        
+    }
