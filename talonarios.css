@@ -1,55 +1,58 @@
 body{
 
-    color:rgb(0, 204, 255);
-    background-color: black;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    border-radius: 50px;
-    border-color:black; 
-    border: solid;
-    margin:2% ;
-    padding: 2%;
+background:#4c545b;
+font-family: 'Roboto', sans-serif;
+margin: 1%;
+padding: 2%;
 
-    transition:0.5s ;
 }
 
-    .talonario{
 
-     color:rgb(0, 174, 255);
-     background-color:black;
-        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-        
+.container{
 
-        border-radius: 50px;
-        border-color:rgb(0, 153, 255); 
-        border: solid;
-        margin:2% ;
-        padding: 2%;
-        display: inline-block;
-     
-        width: 300px;
-        height: 150px;
-        
-    }
 
-    h2{
-        text-align: center;
-        margin: 1%;
-        padding: 2%;
-    }
+background-color:orange;
+margin : 1%;
+padding: 2%;
+border-radius:50px;
+font-size:20px;
+font-weight:900;
+font-family: 'Roboto', sans-serif;
+width:700px;
+height:60 px;
+}
 
-    span{
-        color: rgb(255, 230, 0);
-        margin: 1%;
-        font-style: bold;
-        margin: 1%;
-        padding: 2%;
-    
-    }
 
-    p{
-        font-weight: bold;
-        font-size: 16px;
-    text-align: center;
-    
-        
-    }
+
+
+span{
+color:223d4c;
+font-size:20px;
+font-weight:900;
+margin: 1%;
+padding :2%;
+
+}
+
+
+
+
+.faltante{
+
+
+background-color:red;
+margin : 1%;
+padding: 2%;
+border-radius:50px;
+font-size:20px;
+font-weight:900;
+font-family: 'Roboto', sans-serif;
+width:700px;
+height:60 px;
+}
+
+
+
+
+
+
