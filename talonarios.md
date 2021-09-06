@@ -41,8 +41,6 @@
  
 <div class="container">
 
-<h2>cliente #2 !...</h2>
-
 <span>name:</span>
 
 <span> pablo melendez</span>
@@ -60,8 +58,6 @@
 
 
 <div class="faltante">
-
-<h2>cliente #2 !...</h2>
 
 <span>name:</span>
 
