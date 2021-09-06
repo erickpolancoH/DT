@@ -15,8 +15,6 @@
 
 <div class="container">
 
-<h2>cliente #1 !...</h2>
-
 <span>name:</span>
 
 <span>mario paula</span>
@@ -37,7 +35,6 @@
 
 
 
-</div>
  
 <div class="container">
 
@@ -75,6 +72,8 @@
   
 </body>
 </html>
+
+
 
 
 
